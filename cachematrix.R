@@ -1,11 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## This function takes in an invertible matrix
 ## It creates a special "matrix", which is really a list containing a function to
 ## set the value of the matrix, get the value of the matrix
 ## set the value of the inverted matrix, get the value of the inveted matrix
-
 
 makeCacheMatrix <- function(mat = matrix()){
   
